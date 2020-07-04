@@ -1,0 +1,7 @@
+.feynman__image /*Вернул обратно, все сломалось, после сам разберусь как правильно картинку сделать фоном*/ {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  height: 637px;
+  width: 867px;
+}
