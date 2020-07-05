@@ -1,4 +1,6 @@
+@import url(./table_theme_dark.css);
 @import url(./__cell/table__cell.css);
+@import url(./__cell/table__cell_theme_dark.css);
 @import url(./__heading/table__heading.css);
 @import url(./__text/table__text.css);
 
@@ -12,7 +14,3 @@
   margin: 60px auto 100px;
   list-style-type: none;
 }
-.table_theme_dark {
-  z-index: 1;
-  margin: 0px auto 90px; /* В брифе указано 90px*/
- }

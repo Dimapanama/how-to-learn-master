@@ -1,4 +1,3 @@
-@import url(./-link/-link.css);
 .footer__column-menu {
   display: flex;
   flex-direction: column;
@@ -9,4 +8,4 @@
   list-style-type: none;
   margin-right: auto;
   padding: 0px;
- }
+  }
