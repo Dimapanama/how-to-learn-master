@@ -1,5 +1,5 @@
-@import url(./_cards/_cards.css);
-@import url(./_theme_dark/_theme_dark.css);
+@import url(./_cards/section-subtitle_cards.css);
+@import url(./_theme_dark/section-subtitle_theme_dark.css);
 .section-subtitle {
   width: 60%;
   margin: 20px auto 0px;
